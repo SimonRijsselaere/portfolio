@@ -9,7 +9,7 @@
           </div>
           <div class="col-12 text-center input-field mt-5">
             <form @submit.prevent="addpokemon" action="index.html" method="post">
-              <input v-model="searchedpokemon" type="text" id="searchThisPokemon" placeholder="type your Pokemon">
+              <input v-model="searchedpokemon" type="text" id="searchThisPokemon" placeholder="no capital letters please">
               <button class="ml-5" type="button" name="button" v-on:click="mounted" id="search">Search the Pokemon!</button>
             </form>
           </div>
