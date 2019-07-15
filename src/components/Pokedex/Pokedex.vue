@@ -9,7 +9,7 @@
           </div>
           <div class="col-12 text-center input-field mt-5">
             <form @submit.prevent="addpokemon" action="index.html" method="post">
-              <input v-model="searchedpokemon" type="text" id="searchThisPokemon" placeholder="no capital letters please">
+              <input v-model="searchedpokemon" type="text" id="searchThisPokemon" placeholder="Search your Pokemon!">
               <button class="ml-5" type="button" name="button" v-on:click="mounted" id="search">Search the Pokemon!</button>
             </form>
           </div>
@@ -45,15 +45,13 @@ export default {
       searchedpokemon: this.searchedpokemon
     },
     mounted() {
-       this.$axios.get(`https://pokeapi.co/api/v2/pokemon/${this.searchedpokemon}`)
+       this.$axios.get(`https://pokeapi.co/api/v2/pokemon/${this.searchedpokemon.toLowerCase()}`)
        .then(response => {this.pokemon = response.data})
        .then(response => {this.loadAjax(response);})
 
      },
 
     loadAjax() {
-      var input = document.getElementById("searchThisPokemon");
-      var search = document.getElementById("search");
       var displayName = document.getElementById("name");
       var displayPicture = document.getElementById("picture");
       var displayEvolutionName = document.getElementById("evolutionName");
