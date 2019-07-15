@@ -14,6 +14,10 @@
           <h5><a href="https://simonrijsselaere.github.io/Nyan-Cat/" target="_blank">Nyan Cat</a></h5>
           <p>This is an exercise from my BeCode-course, we had to animate the body after the click on the button to spawn random nyan-cats at the top left corner and then animate them to move over the screen.</p>
         </div>
+        <div class="site">
+          <h5><a href="http://simonrijsselaere.me/API-fetch-challenge/" target="_blank">Beer fetch API</a></h5>
+          <p>This was a collaboration exercise from Ollivier van den Heede and me. We had to build a site displaying data from a beer API.</p>
+        </div>
 
       </div>
     </div>
