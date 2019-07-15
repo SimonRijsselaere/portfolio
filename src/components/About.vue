@@ -7,7 +7,7 @@
         <h4>Here I will put some links to Githubpages of my old projects worth checking out</h4>
         <br>
         <div class="site">
-          <h5><a href="https://simonrijsselaere.github.io/Redline-project/index.html" target="_blank">Zwin Rechteroever</a></h5>
+          <h5><a href="https://simonrijsselaere.github.io/Redline-project/" target="_blank">Zwin Rechteroever</a></h5>
           <p>We had to redo a bad site that we were given, I got this one: <a href="http://www.zwinrechteroever.be/" target="_blank">Zwin Rechteroever (the old one)</a>. It was to practice redesigning and working with an existing site. </p>
         </div>
         <div class="site">
@@ -15,7 +15,7 @@
           <p>This is an exercise from my BeCode-course, we had to animate the body after the click on the button to spawn random nyan-cats at the top left corner and then animate them to move over the screen.</p>
         </div>
         <div class="site">
-          <h5><a href="http://simonrijsselaere.me/API-fetch-challenge/" target="_blank">Beer fetch API</a></h5>
+          <h5><a href="https://simonrijsselaere.github.io/API-fetch-challenge/" target="_blank">Beer fetch API</a></h5>
           <p>This was a collaboration exercise from Ollivier van den Heede and me. We had to build a site displaying data from a beer API.</p>
         </div>
 
