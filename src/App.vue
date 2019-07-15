@@ -1,28 +1,43 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Header />
+    <NavBar/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Skills from './components/Skills.vue'
+import Header from './components/Header.vue'
+import NavBar from './components/NavBar.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    Skills,
+    Header,
+    NavBar,
+
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body {
+  background-color: grey;
+  font-family: 'Roboto', sans-serif;
+  display: grid;
+  grid-template-rows: auto;
 }
+
+body, html {
+  margin: 0;
+  height: 100%;
+}
+#app {
+    width: 100%;
+}
+
+
 </style>
