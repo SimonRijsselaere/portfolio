@@ -1,6 +1,6 @@
 <template lang="html">
   <div class="text-center">
-    <b-jumbotron class="mt-0 pt-3 pb-2 mb-0" header="Simons Vue Portfolio" lead="a small introduction">
+    <b-jumbotron class="mt-0 pt-3 pb-2 mb-0" header="Simon's Vue Portfolio" lead="a small introduction">
     </b-jumbotron>
   </div>
 

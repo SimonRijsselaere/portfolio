@@ -6,8 +6,8 @@
            <br/>
              <p>Hi! I'm Simon Rijsselaere, a front-end developer from Ghent.
              </p>
-             <p>My interests are javascript, React, Bootstrap, Node.js and Python.</p>
-             <p>I'm looking for an internship in the Ghent region starting September 2019. Preferably in the front-end sector but I'm open to learning Python and more Node.js for the backend.
+             <p>My interests are Javascript, React, Bootstrap, Node.js and Python.</p>
+             <p>I'm looking for an internship in the Ghent region starting September 2019. Preferably in the front-end sector but I'm open to learning Python and more Node.js for the back-end.
              </p>
              <p></p>
        </div>
