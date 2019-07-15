@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <figure class="col-md-6 col-sm-1">
-        <img src="./chuck.jpg" class="image-fluid" alt="Chuck Norris">
+        <img src="./chuck.png" class="image-fluid" alt="Chuck Norris">
       </figure>
       <div class="col-md-6 col-sm-12">
         <h1 class="text-center display-2">404</h1>
@@ -23,6 +23,10 @@ export default {
 </script>
 
 <style lang="css" scoped>
+
+h1, p {
+  color: white;
+}
 
 
 input {

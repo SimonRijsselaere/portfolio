@@ -96,7 +96,7 @@ ul li {
 p {
   text-align:center;
   padding: 30px 0;
-  color: black;
+  color: white;
 }
 
 .container {
