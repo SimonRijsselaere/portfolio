@@ -8,7 +8,7 @@
         <br>
         <div class="site">
           <h5><a href="https://simonrijsselaere.github.io/Redline-project/index.html" target="_blank">Zwin Rechteroever</a></h5>
-          <p>We had to redo a bad site that we were given, I got this one: <a href="http://www.zwinrechteroever.be/" target="_blank">Zwin Rechteroever (the old one)</a>. It was a practise in better design and working with an example site. </p>
+          <p>We had to redo a bad site that we were given, I got this one: <a href="http://www.zwinrechteroever.be/" target="_blank">Zwin Rechteroever (the old one)</a>. It was to practice redesigning and working with an existing site. </p>
         </div>
         <div class="site">
           <h5><a href="https://simonrijsselaere.github.io/Nyan-Cat/" target="_blank">Nyan Cat</a></h5>
