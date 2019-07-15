@@ -1,10 +1,10 @@
 <template lang="html">
   <div class="container">
     <div class="row">
-      <figure class="col-6">
+      <figure class="col-md-6 col-sm-1">
         <img src="./chuck.jpg" class="image-fluid" alt="Chuck Norris">
       </figure>
-      <div class="col-6 ">
+      <div class="col-md-6 col-sm-12">
         <h1 class="text-center display-2">404</h1>
         <p class="text-center ml-4">Looks like Chuck Norris destroyed this page.</p>
         <div class="button">

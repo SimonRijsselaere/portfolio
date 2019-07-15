@@ -1,7 +1,7 @@
 <template>
   <div class="container-fluid ">
     <div class="row bg-dark p-5 justify-content-center ">
-      <div class="about col-8 pb-5">
+      <div class="about col-md-8 col-sm-12 pb-5">
         <h1><u>Hello, this is my about page!</u></h1>
         <br/>
         <h4>Here I will put some links to Githubpages of my old projects worth checking out</h4>

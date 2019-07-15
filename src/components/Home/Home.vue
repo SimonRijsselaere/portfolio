@@ -1,7 +1,7 @@
 <template lang="html">
   <div class="container-fluid">
    <div class="row bg-dark p-2 justify-content-center ">
-       <div class="sections col-4">
+       <div class="sections col-md-4 col-sm-12">
            <h3>Introduction</h3>
            <br/>
              <p>Hi! I'm Simon Rijsselaere, a front-end developer from Ghent.
@@ -11,12 +11,12 @@
              </p>
              <p></p>
        </div>
-       <div class="image col-4 pr-0 ">
+       <div class="image col-md-4 pr-0 col-sm-12">
            <img src="./linkedin.jpg" class="img-fluid " alt="a person">
        </div>
      </div>
      <div class="row bg-dark justify-content-center">
-       <div class="info col-8 text-center pt-5">
+       <div class="info col-md-8 text-center pt-5 col-sm-12">
          <div class="line">
            <h3 id="bigger">Personal Info</h3>
              <ul>
