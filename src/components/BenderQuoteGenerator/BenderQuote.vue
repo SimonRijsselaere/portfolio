@@ -1,5 +1,8 @@
 <template lang="html">
   <div class="container-fluid bg-dark ">
+    <div class="row">
+      <div class="col-12 mt-3"><button v-on:click="mounted" type="button" class="btn btn-secondary btn-lg btn-block" id="nextquote" name="button"><p>New quote!</p></button></div>
+    </div>
       <div class="row">
         <div class="col-4">
           <img class="img-fluid" src="./image/bender.png" alt="">
@@ -9,9 +12,6 @@
 
           </div>
         </div>
-      </div>
-      <div class="row">
-        <div class="col-12 mt-3"><button v-on:click="mounted" type="button" class="btn btn-secondary btn-lg btn-block" id="nextquote" name="button"><p>New quote!</p></button></div>
       </div>
     </div>
 </template>
