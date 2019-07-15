@@ -16,7 +16,7 @@
         </div>
         <div class="site">
           <h5><a href="https://simonrijsselaere.github.io/API-fetch-challenge/" target="_blank">Beer fetch API</a></h5>
-          <p>This was a collaboration exercise from Ollivier van den Heede and me. We had to build a site displaying data from a beer API.</p>
+          <p>This was a collaboration exercise from Ollivier van den Heede and me. We had to build a site displaying data from a beer API. We got to the part of displaying the data but we didn't finish sort and search.</p>
         </div>
 
       </div>
