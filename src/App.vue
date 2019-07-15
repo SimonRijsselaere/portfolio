@@ -25,8 +25,8 @@ export default {
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 body {
-  background-color: grey;
-  font-family: 'Roboto', sans-serif;
+  background-color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   display: grid;
   grid-template-rows: auto;
 }
