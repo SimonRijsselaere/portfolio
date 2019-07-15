@@ -23,7 +23,7 @@
                <li>E-mail: Rijsselaere.simon@gmail.com</li>
                <li>adress: Zomerstraat 31, 9000 Gent</li>
                <li>Githubpage:<a href="https://github.com/SimonRijsselaere/" target="_blank"> https://github.com/SimonRijsselaere/</a></li>
-               <li>lindedin: <a href="https://www.linkedin.com/in/simon-rijsselaere-02b43a17b/" target="_blank">https://www.linkedin.com/in/simon-rijsselaere-02b43a17b/</a></li>
+               <li>linkedin: <a href="https://www.linkedin.com/in/simon-rijsselaere-02b43a17b/" target="_blank">https://www.linkedin.com/in/simon-rijsselaere-02b43a17b/</a></li>
              </ul>
          </div>
        </div>
@@ -44,6 +44,7 @@ export default {
   background-size: cover;
   font-family: 'Roboto', sans-serif;
   color: white;
+  flex-grow: 1;
 }
 
 .sections {

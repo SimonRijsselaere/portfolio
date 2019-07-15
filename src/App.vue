@@ -34,6 +34,8 @@ body {
 body, html {
   margin: 0;
   height: 100%;
+  display: flex;
+  flex-direction: column;
 }
 #app {
     width: 100%;
