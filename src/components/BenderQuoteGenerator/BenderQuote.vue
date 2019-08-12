@@ -76,6 +76,11 @@ width: 300px;
 #quote{
 font-size: 2em;
 }
+@media (max-width: 767px){
+  #quote{
+    font-size: 1em;
+  }
+}
 
 
 

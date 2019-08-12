@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row">
       <figure class="col-md-6 col-sm-1">
-        <img src="./chuck.png" class="image-fluid" alt="Chuck Norris">
+        <img src="./chuck.png" class="img-fluid" alt="Chuck Norris">
       </figure>
       <div class="col-md-6 col-sm-12">
         <h1 class="text-center display-2">404</h1>
         <p class="text-center ml-4">Looks like Chuck Norris destroyed this page.</p>
         <div class="button">
-          <form action="https://github.com/SimonRijsselaere">
+          <form action="https://www.simonrijsselaere.me">
             <input type="submit" value="Go back" />
           </form>
         </div>
