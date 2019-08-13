@@ -47,4 +47,8 @@ span:hover {
 .navbar {
   background-color: #6200EE !important;
 }
+  
+  span {
+    display: block;
+  }
 </style>
