@@ -8,7 +8,7 @@
              </p>
              <p>My interests are Javascript, React, Bootstrap, Node.js and Python.</p>
              </p>
-           <p>Starting my internship @ Adagio Ghent in September!</p>
+           <p>Working @ Adagio/intracto Ghent</p>
        </div>
        <div class="image col-md-4 pr-0 col-sm-12">
            <img src="./linkedin.jpg" class="img-fluid " alt="a person">
